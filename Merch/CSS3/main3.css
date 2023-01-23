@@ -10,3 +10,7 @@ div {
 .body {
     background-color: aqua;
 }
+
+img {
+    padding: 50%;
+}
