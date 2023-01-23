@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+    font: 100;
+}
+
+div {
+    display: flex;
+}
+
+.body {
+    background-color: aqua;
+}
